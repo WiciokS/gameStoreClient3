@@ -1,0 +1,10 @@
+lt.viko.eif.vskuder.client
+lt.viko.eif.vskuder.GUI
+lt.viko.eif.vskuder.GUI.Category
+lt.viko.eif.vskuder.GUI.Developer
+lt.viko.eif.vskuder.GUI.Game
+lt.viko.eif.vskuder.GUI.Library
+lt.viko.eif.vskuder.GUI.User
+lt.viko.eif.vskuder.main
+lt.viko.eif.vskuder.REST
+lt.viko.eif.vskuder.util

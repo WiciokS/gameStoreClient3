@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Library xmlns:ns2="gamestoresoap">
+    <id>0</id>
+    <user>
+        <id>1</id>
+        <username>Vitold</username>
+        <password>Skuder</password>
+    </user>
+    <games>
+        <id>1</id>
+        <title>Cyberpunk 2077</title>
+        <price>49.99</price>
+        <developer>
+            <id>1</id>
+            <name>CD Projekt RED</name>
+        </developer>
+        <category>
+            <id>1</id>
+            <name>Action</name>
+        </category>
+    </games>
+    <games>
+        <id>2</id>
+        <title>The Last of Us Part II</title>
+        <price>59.99</price>
+        <developer>
+            <id>2</id>
+            <name>Naughty Dog</name>
+        </developer>
+        <category>
+            <id>2</id>
+            <name>RPG</name>
+        </category>
+    </games>
+    <games>
+        <id>6</id>
+        <title>NewGame</title>
+        <price>19.99</price>
+        <developer>
+            <id>5</id>
+            <name>Blizzard Entertainment</name>
+        </developer>
+        <category>
+            <id>3</id>
+            <name>Sci-Fi</name>
+        </category>
+    </games>
+</ns2:Library>
